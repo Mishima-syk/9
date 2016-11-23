@@ -47,7 +47,7 @@ condaを利用してtensorflow,keras,rdkitをインストールします。
 
 ### TensorFlowを使ったDeepLarning
 
-これで解析環境が整いました。
+データは[AstraZenecaのLogP](https://www.ebi.ac.uk/chembl/assay/inspect/CHEMBL3301363)を利用します。
 
 ## Ubuntu環境の構築 (古臭いやり方、正当なやり方ともいう)
 
