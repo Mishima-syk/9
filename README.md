@@ -36,7 +36,11 @@
 
     wget https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
     bash ./Anaconda3-4.2.0-Linux-x86_64.sh
-    export "PATH=/home/ubuntu/anaconda3/bin:$PATH"
+    vim ~/.bashrc
+
+最終行に以下を追記
+
+    export "PATH=/home/vagrant/anaconda3/bin:$PATH"
 
 condaを利用してtensorflow,keras,rdkitをインストールします。
 
@@ -44,6 +48,61 @@ condaを利用してtensorflow,keras,rdkitをインストールします。
     conda install -c conda-forge keras=1.0.7
     conda install -c rdkit rdkit=2016.03.4
 
+### jupyterでのアクセスのための設定（エディタが苦手とか対話環境が欲しい場合）
+
+一度仮想環境からでます。Ctrl-Dかlogout
+仮想環境を停止します
+
+    vagrant halt
+
+Vagrantfileを編集します
+
+    vi Vagrantfile
+
+config.vm.network "private_network"という行を探してコメント(#)を外します。viの場合xを押すと削除されます
+
+これでホストマシンからアクセスできるようになったので仮想環境を起動します
+
+    vagrant up
+    vagrant ssh
+
+
+ipythonを起動してパスワードの設定をします。
+
+    $ ipython
+    Python 3.5.2 |Anaconda 4.2.0 (64-bit)| (default, Jul  2 2016, 17:53:06) 
+    Type "copyright", "credits" or "license" for more information.
+    
+    IPython 5.1.0 -- An enhanced Interactive Python.
+    ?         -> Introduction and overview of IPython's features.
+    %quickref -> Quick reference.
+    help      -> Python's own help system.
+    object?   -> Details about 'object', use 'object??' for extra details.
+    
+    In [1]: from notebook.auth import passwd
+    
+    In [2]: passwd()
+    Enter password: 
+    Verify password: 
+    Out[2]: 'sha1:6e413d4ae936:325643af79a370bdce884587f5a0ec6a15d01257'
+
+設定ファイルを作るために一度jupyter notebookを起動します
+
+    jupyter notebook
+
+起動させたら終了します。設定ファイルを追記します
+
+    vim .jupyter/jupyter_notebook_config.py
+
+内容はこれです
+
+    c = get_config()
+    c.NotebookApp.ip = '*'
+    c.NotebookApp.password = u'sha1:6e413d4ae936:325643af79a370bdce884587f5a0ec6a15d01257'
+    c.NotebookApp.open_browser = False
+    c.NotebookApp.port = 8888
+
+これでjupyterを起動すればホストからブラウザでアクセスできるようになります。
 
 ### TensorFlowを使ったDeepLarning
 
