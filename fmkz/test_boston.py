@@ -1,11 +1,9 @@
-import numpy as np
 import tensorflow as tf
 from sklearn import cross_validation
 from sklearn import datasets
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from math import sqrt
-import random
 
 tf.logging.set_verbosity(tf.logging.ERROR)
 
