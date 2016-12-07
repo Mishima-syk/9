@@ -141,3 +141,8 @@ vagrant upが上手くいかない
     sudo rm -rf /opt/vagrant/embedded/bin/curl
 
 で解決した
+
++### 自分のPCに↑の環境を作れない人→ Cloud9でどうぞ。
++↓にCloudサービスのCloud9上に、ハンズオン環境の構築手順を書きました。
++10分もあれば作れます。ただし、HDDが2GBなのでかつかつなため、ずっと使い続けるには無理がある。
++https://github.com/kochi0603/mishima9/blob/master/README.md
