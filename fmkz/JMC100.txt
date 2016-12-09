@@ -1,0 +1,485 @@
+102 CHEMBL615820 Binding affinity against 5-hydroxytryptamine 1A receptor (5-HT1A) by displacement of [3H]8-OH-DPAT from rat hippocampus membranes
+281 CHEMBL616344 Binding affinity of a compound to rat brain 5-hydroxytryptamine 1A (serotonin) receptor assayed by radiolabeled [3H]-8-OH-DPAT ligand displacement
+104 CHEMBL617210 In vitro binding affinity for serotonin 5-hydroxytryptamine (5-HT) 2 receptors
+113 CHEMBL620004 Inhibition of 5-lipoxygenase on rat basophil leukemia cell line lysate (RBL-1 2H3 subline) by measuring 5-HETE production
+108 CHEMBL618396 In vitro inhibitory activity against 5-lipoxygenase in rat basophilic leukemia cells(RBL-1)
+111 CHEMBL858253 Logarithmic value of inhibitory concentration against 5-lipoxygenase in rat basophilic leukemia cells (RBL-1)
+114 CHEMBL621004 Antitumor activity in vivo against the 6C3HED lymphosarcoma, dosed for 10 days at 300 mg/kg
+120 CHEMBL618310 Unbound fraction (plasma)
+120 CHEMBL624569 Observed volume of distribution
+113 CHEMBL618471 Plasma drug AUC in rat (PO dose)
+113 CHEMBL623289 Plasma drug Cmax in rat (PO dose)
+104 CHEMBL632070 Oral bioavailability in rat
+106 CHEMBL629261 Plasma drug Tmax in rat (PO dose)
+103 CHEMBL633638 Solubility (buffer pH 7.4)
+112 CHEMBL633649 Delta logD (logD6.5 - logD7.4)
+101 CHEMBL635482 Partition coefficient (logP)
+230 CHEMBL633737 Partition coefficient (logP)
+119 CHEMBL636294 HPLC capacity factor (k')
+134 CHEMBL633695 Component deacylation rate constant for interaction with human leukocyte elastase
+158 CHEMBL633696 Component acylation rate constant for interaction with human leukocyte elastase
+181 CHEMBL633895 Ionization constant (pKa)
+101 CHEMBL641772 Plasma T1/2 in rat (IV dose)
+115 CHEMBL634283 Partition coefficient (logD6.5)
+120 CHEMBL636806 Partition coefficient (logP)
+152 CHEMBL636394 Delta logD (logD6.5 - logD7.4)
+153 CHEMBL646647 Partition coefficient (logD6.5)
+102 CHEMBL640840 Ionization constant (pKa)
+204 CHEMBL645153 Ionization constant (pKa)
+185 CHEMBL633098 Oral bioavailability in human
+154 CHEMBL644792 In vitro inhibitory activity against acyl coenzyme A:cholesterol acyltransferase (ACAT)
+139 CHEMBL644793 In vitro inhibition of acyl coenzyme A:cholesterol acyltransferase
+116 CHEMBL644794 In vitro inhibitory activity against acyl coenzyme A:cholesterol acyltransferase
+167 CHEMBL641707 In vitro inhibitory activity against acyl coenzyme A:cholesterol acyltransferase 1 in microsomes of rat liver
+133 CHEMBL648337 Inhibitory activity against angiotensin converting enzyme (ACE)
+132 CHEMBL652259 In vitro antagonist activity against rat prostatic androgen receptor (AR)
+102 CHEMBL650164 Binding affinity against Angiotensin II receptor, from rat adrenal gland
+121 CHEMBL654200 Binding affinity against cytosolic androgen receptor from ventral prostate of rats using [3H]MIB competitive binding assay (relative to dihydro testosterone)
+101 CHEMBL652869 In vitro inhibitory activity against angiotensin II rabbit aorta AT1 receptor using radioligand [125I]-Sar Ile-AII
+101 CHEMBL651250 In vitro inhibitory activity against angiotensin II rat midbrain AT2 receptor using radioligand [125I]-Sar Ile-AII
+103 CHEMBL649169 Antifungal activity against Aspergillus fumigatus Saito strain
+189 CHEMBL648388 In vitro antifungal activity against Aspergillus fumigatus
+116 CHEMBL647385 Minimum inhibitory concentration (MIC) against Aspergillus fumigatus
+130 CHEMBL657821 Inhibitory activity against human carbonic anhydrase I (CA1)
+103 CHEMBL649945 Inhibition of RANTES binding to the human C-C chemokine receptor type 5 (CCR5)
+138 CHEMBL652492 Concentration required to inhibit growth of CCRF-CEM cells in culture for 72 hr to 50% of control growth
+102 CHEMBL653322 In vitro beta-2 duration was determined using electrically stimulated guinea-pig isolated trachea superfusion system
+103 CHEMBL659114 Antifungal activity against Candida albicans C-A-24 strain
+189 CHEMBL656628 In vitro antifungal activity against Candida albicans
+189 CHEMBL658433 Minimum effective concentration for inhibition of pseudomycelium formation in Candida albicans
+151 CHEMBL653167 Inhibition of human recombinant carbonic anhydrase I (CA1)
+246 CHEMBL658042 Inhibitory activity against Human carbonic anhydrase II
+130 CHEMBL657146 Inhibitory activity against human carbonic anhydrase II (CA2)
+131 CHEMBL657153 Inhibitory activity against human recombinant carbonic anhydrase II (CA2)
+155 CHEMBL657194 Inhibition of human recombinant carbonic anhydrase II (CA2)
+247 CHEMBL658217 Inhibitory activity against bovine carbonic anhydrase IV
+130 CHEMBL658749 Inhibitory activity against bovine carbonic anhydrase IV (CA4), isolated from bovine lung microsomes
+130 CHEMBL657028 Inhibitory activity against bovine carbonic anhydrase IV (CA4), isolated from bovine lung microsomes
+155 CHEMBL657032 Inhibition of bovine carbonic anhydrase IV (CA4) from bovine lung microsomes
+117 CHEMBL662556 Minimum inhibitory concentration (MIC) against Candida albicans
+246 CHEMBL662724 Inhibitory activity against Human carbonic anhydrase I
+131 CHEMBL657828 Inhibitory activity against human recombinant carbonic anhydrase I (CA1)
+151 CHEMBL660105 MHC class I HLA-A*0201 binding affinity assayed by based inhibition of binding of a radiolabeled standard peptide (FLPSDYFPSV)
+118 CHEMBL656248 Inhibition of binding of [125I]-CCK-8 to the cholecystokinin type B receptor
+137 CHEMBL662294 Mammalian cell cytotoxicity test in chinese hamster V79 cells (clonogenic cytotoxicity)
+140 CHEMBL663407 Inhibition of Coagulation factor Xa
+132 CHEMBL659628 Half-maximal inhibition of [125I]-CCK-8(+) binding to cholecystokinin receptor from guinea pig brain tissue
+112 CHEMBL663474 Half-maximal inhibition of [125I]CCK-33 binding to cholecystokinin A receptor from rat pancreatic tissue
+108 CHEMBL660813 Inhibitory activity against recombinant human Chemokine receptor type 3 (CCR3) expressed in chinese hamster ovary cells
+115 CHEMBL662400 Inhibition of binding of [125I]CCK-8 to cholecystokinin type A receptor in rat pancreatic tissue
+113 CHEMBL664960 Binding affinity to recombinant human Corticotropin releasing factor receptor 1 (hCRF1) expressed in 293EBNA cells
+103 CHEMBL666216 Antifungal activity against Cryptococcus neoformans Cr-1 strain
+154 CHEMBL668904 Percentage of intracellular covalent DNA-topoisomerase II complexes formed
+185 CHEMBL669614 Inhibitory activity against dihydrofolate reductase (DHFR) isolated from murine L5178Y tumor cells resistant and sensitive to methotrexate
+107 CHEMBL666235 The concentration required to inhibit dihydrofolate reductase in rat liver
+128 CHEMBL858231 Inhibition of dihydrofolate reductase from rat Walker 256 leukemia tumors
+103 CHEMBL666238 Concentration required for inhibition of rat liver dihydrofolate reductase (DHFR)
+120 CHEMBL670366 In vitro binding affinity towards dopamine receptor D2
+104 CHEMBL670641 Antagonist activity towards human recombinant Endothelin B receptor expressed in chinese hamster ovary (CHO) cells determined using [125I]ET1 as radioligand
+173 CHEMBL858400 Inhibition of human leukocyte elastase
+102 CHEMBL676676 In vitro growth inhibition against Entamoeba histolytica
+104 CHEMBL682357 Antagonist activity towards human recombinant Endothelin A receptor expressed in chinese hamster ovary (CHO) cells determined using [125I]ET1 as radioligand
+111 CHEMBL679318 Minimum inhibitory concentration against Escherichia coli
+144 CHEMBL683045 Binding affinity for human recombinant gamma-aminobutyric-acid (GABA) A receptor alpha-6-beta-3-gamma-2
+146 CHEMBL678329 Binding affinity for human recombinant gamma-aminobutyric-acid (GABA) A receptor alpha-1-beta-3-gamma-2
+136 CHEMBL681248 Binding affinity to human recombinant gamma-aminobutyric-acid (GABA) A receptor alpha-2-beta-3-gamma-2
+101 CHEMBL678836 The compound was tested for the inhibition of fibrinogen receptor
+146 CHEMBL682251 Binding affinity for human recombinant gamma-aminobutyric-acid (GABA) A receptor alpha-3-beta-3-gamma-2
+157 CHEMBL681296 In vitro inhibition of farnesyltransferase farnesylation of the H-ras oncogene
+149 CHEMBL681480 Binding affinity for human recombinant gamma-aminobutyric-acid (GABA) A receptor alpha-5-beta-3-gamma-2
+131 CHEMBL682682 Antibacterial activity against five Gram-negative bacteria
+131 CHEMBL682431 Antibacterial activity against five Gram-positive bacteria targeting topoisomerase II (DNA gyrase B GyrB)
+131 CHEMBL687330 Half-maximal inhibition of [125I]gastrin binding to guinea pig gastric glands
+130 CHEMBL686430 Percent inhibition of gastric proton-pump enzyme H+/K+ ATPase was determined at 50 uM
+110 CHEMBL688289 Inhibition of K+ -stimulated gastric ATPase activity was measured using lyophilized gastric vesicles at pH 7
+110 CHEMBL690110 In vitro antimicrobial activity against Haemophilus influenzae.
+117 CHEMBL693364 Inhibition of HIV-1 replication in human T-cell by using XTT assay; Inactive
+142 CHEMBL697213 Inhibition of HIV-1 replication in a proliferating human T-cell line assayed using an XTT assay.
+171 CHEMBL698689 In vitro inhibition of histamine release from human basophils
+203 CHEMBL698692 Inhibitory activity against histamine release from antigen-challenged, sensitized human basophils
+119 CHEMBL698300 Binding affinity for imidazoline receptor I-2 in rabbit kidney homogenate (relative to [3H]-Idazoxan radioligand)
+105 CHEMBL699705 Inhibition constant (Ki) for human intestinal peptide carrier
+103 CHEMBL697889 Binding affinity was determined against ionotropic glutamate receptor AMPA in rat brain synaptic membranes using [3H]AMPA as radioligand
+102 CHEMBL700364 Toxicity evaluated against human nasopharyngeal carcinoma KB cell line
+263 CHEMBL702934 Tumor cell selectivity determined as maximal percent increase in life span (ILSmax) at LD10 dosage level in L1210 cells
+776 CHEMBL703726 Drug concentration in mole/kg/day providing 50% extension of life in intraperitoneally implanted leukemia L1210 mice.
+112 CHEMBL709406 lowest concentration at which glucose utilized was greater than or equal to 140% of control value tested in a glucose utilization L6 myocyte in vitro assay
+177 CHEMBL708445 Effective concentration required for the inhibition of HIV-1 IIIB in MT-4 cells
+132 CHEMBL715566 Negative logarithm of relative affinity (pRA) towards melatonin receptor (relative to N-acetyl-5-methoxytryptamine (aMT))
+141 CHEMBL856174 Melatonin receptor type 1A binding affinity measured using 2-[125I]iodomelatonin on ovine pars tuberalis membrane homogenates.
+103 CHEMBL723207 Maximally tolerated dose was measured after ip administration of compound, 24 hr after tumor implantation.
+125 CHEMBL724601 Antimalarial effect against trophozoite-induced Plasmodium berghei in mice (Mus musculus) at 160 mg/kg subcutaneous dose
+101 CHEMBL718071 Antimalarial effect against trophozoite-induced Plasmodium berghei in mice (Mus musculus) after 20 mg/kg subcutaneous dose
+166 CHEMBL719448 Antimalarial effect against trophozoite-induced Plasmodium berghei in mice (Mus musculus) after 40 mg/kg subcutaneous dose
+121 CHEMBL726033 Acute toxicity determined after intravenal administration in mice
+105 CHEMBL738589 Lethal dose in mice determined by Litchfield and Wilcoxon methods after peroral administration.
+118 CHEMBL742791 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after subcutaneous 160 mg/kg dose
+107 CHEMBL742793 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after subcutaneous 320 mg/kg dose
+134 CHEMBL742795 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after subcutaneous 640 mg/kg dose
+128 CHEMBL741257 BBB penetration classification
+102 CHEMBL740973 Concentration required to inhibit electrically induced contractions in isolated mouse vas deferens preparation in vitro
+132 CHEMBL744488 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after 160 mg/kg subcutaneous dose
+164 CHEMBL746074 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after 40 mg/kg subcutaneous dose
+101 CHEMBL745188 Antimalarial activity in Plasmodium berghei infected mice (Mus musculus) after 80 mg/kg subcutaneous dose
+103 CHEMBL752848 100% inhibition of growth of clofazimine resistant Mycobacterium smegmatis 607 strain in vitro
+104 CHEMBL752850 Concentration for 100% inhibition of growth of dapsone sensitive Mycobacterium smegmatis 607 strain in vitro
+103 CHEMBL752851 100% inhibition of growth of rifampicin resistant Mycobacterium smegmatis 607 strain in vitro
+118 CHEMBL747348 Minimum inhibitory concentration (MIC) against Mycobacterium tuberculosis H 37 Ra
+163 CHEMBL753724 Inhibition of radioligand [3H]oxytocin binding at the oxytocin (OT) receptor in rat uterine tissue
+102 CHEMBL769481 In vitro growth inhibition against Plasmodium falciparum
+211 CHEMBL759923 Antimalarial activity against chloroquine-resistant, mefloquine-sensitive Plasmodium falciparum W2
+107 CHEMBL765007 Binding affinity against HIV-1 protease
+118 CHEMBL763303 Inhibition of HIV-1 protease
+139 CHEMBL763159 Inhibition of human Prostaglandin G/H synthase 2 at 0.1 ug/mL expressed as mean percent inhibition of control PGE-2 production
+139 CHEMBL763160 Inhibition of human Prostaglandin G/H synthase 2 at 1 ug/mL expressed as mean percent inhibition of control PGE-2 production
+138 CHEMBL763161 Inhibition of human Prostaglandin G/H synthase 2 at 10 ug/mL expressed as mean percent inhibition of control PGE-2 production
+305 CHEMBL763870 Inhibition of human Prostaglandin G/H synthase 2
+114 CHEMBL858334 Inhibitory activity against prostaglandin G/H synthase 2 (COX-2)
+109 CHEMBL772766 In vitro inhibitory concentration required to block recombinant human prostaglandin G/H synthase 1 (COX-1)
+139 CHEMBL765124 Inhibition of human Prostaglandin G/H synthase 1 at 0.1 ug/mL expressed as mean percent inhibition of control PGE-2 production
+139 CHEMBL765125 Inhibition of human Prostaglandin G/H synthase 1 at 1 ug/mL expressed as mean percent inhibition of control PGE-2 production
+139 CHEMBL765126 Inhibition of human Prostaglandin G/H synthase 1 at 10 ug/mL expressed as mean percent inhibition of control PGE-2 production
+177 CHEMBL859312 Inhibitory activity was determined against HIV type 1 protease
+109 CHEMBL763093 In vitro inhibitory concentration required to block human recombinant prostaglandin G/H synthase 2 (COX-2)
+158 CHEMBL761820 Inhibition of purified recombinant HIV-1 protease at 0.5 nm using a fluorogenic substrate
+114 CHEMBL768926 In vitro inhibitory activity against human recombinant protein tyrosine phosphatase 1b (PTP1B)
+113 CHEMBL774080 Inhibition of 5-N-(ethyl isopropyl)-amiloride[EIPA]-sensitive Na+ uptake into acidified rabbit erythrocytes.
+142 CHEMBL779006 Acute in vivo activity measured by total plasma cholesterol concentration levels (TC) at 30 mg/kg dose
+113 CHEMBL777980 In vivo sterol lowering activity when dosed as 0.01 % of the diet
+116 CHEMBL778126 In vivo sterol lowering activity when dosed as 0.03 % of the diet
+162 CHEMBL778138 In vivo sterol lowering activity at dose of 0.10 % of the diet
+110 CHEMBL778149 In vivo triglyceride lowering activity when dosed as 0.01 % of the diet
+112 CHEMBL777443 In vivo triglyceride lowering activity when dosed at 0.03 % of the diet
+123 CHEMBL778215 In vivo triglyceride lowering activity dosed at 0.10 % of the diet
+158 CHEMBL778821 In vivo triglyceride lowering activity dosed at 0.10 % of the diet.
+136 CHEMBL781365 Effective dose determined against rat adjuvant arthritis after peroral administration
+107 CHEMBL783014 Hypotensive index (HI) measured as the area under the time-hypotensive response curve for 6-h period at 30 mg/kg, po
+143 CHEMBL787110 Minimal effective dose in an rat anti-immobility effect using behavioral despair test
+164 CHEMBL819742 Inhibitory activity against beta-lactamase renal dipeptidase
+104 CHEMBL793222 Incidence of arrhythmias in rats after a intravenal administration at 4 mg/kg, expressed as no. of positive cases out of no. of tested cases (10)
+103 CHEMBL789170 Reduction in paw swelling at 100 mg/kg po dose in rat using adjuvant arthritis test.
+185 CHEMBL844273 Binding energy by using the equation deltaG obsd = -RT ln KD
+122 CHEMBL802759 In vitro inhibitory activity against human immunodeficiency virus type 1 (HIV-1) reverse transcriptase (RT)
+121 CHEMBL798029 In vitro inhibitory activity against human immunodeficiency virus type 1 (HIV-1) reverse transcriptase (RT) at a concentration of 10 ug/mL.
+262 CHEMBL803376 Inhibitory activity against human immunodeficiency virus type 1 reverse transcriptase (HIV-1 RT)
+207 CHEMBL799656 Mutagenic activity in an Ames test on Salmonella Typhimurium TA98; Activity is log of revertants/nmol
+116 CHEMBL804051 Minimum inhibitory concentration against staphylococcus aureus ATCC 6538
+122 CHEMBL807240 In vitro binding affinity for the mouse sigma opioid receptor
+115 CHEMBL806152 Inhibition of binding of Batrachotoxinin [3H]BTX-B to high affinity sites on voltage dependent sodium channels in a vesicular preparation from guinea pig cerebral cortex
+163 CHEMBL806153 Inhibition of binding of Batrachotoxinin [3H]BTX-B to high affinity sites on voltage dependent sodium channels in a vesicular preparation from guinea pig cerebral cortex at 10 uM
+110 CHEMBL812966 In vitro antimicrobial activity against Streptococcus epidermidis EPI1
+110 CHEMBL807231 In vitro antimicrobial activity against Staphylococcus aureus X1
+135 CHEMBL814228 Ratio of IC50 to that of 10x compound against Steroid 5-alpha-reductase
+109 CHEMBL812245 In vitro antimicrobial activity against Streptococcus pneumoniae
+109 CHEMBL813256 In vitro antimicrobial activity against Streptococcus faecium X66
+110 CHEMBL813820 In vitro antimicrobial activity against Staphylococcus pyogenes C203
+102 CHEMBL808362 Effective dose after subcutaneous administration to TPTX rats for 50% reduction of hypercalcemia
+776 CHEMBL813896 Compound concentration in mole/kg/day lethal to 10% of mice
+189 CHEMBL812601 In vitro antifungal activity against Trichophyton asteroides
+110 CHEMBL812602 Minimum inhibitory concentration against Trichophyton asteroides
+103 CHEMBL812603 Antifungal activity towards Trichophyton interdigitale
+117 CHEMBL879102 Inhibitory activity against human thrombin (using Chromozym TH as the substrate)
+102 CHEMBL809380 Compound tested for ability to form a cellular covalent topoisomerase II-DNA complex.
+177 CHEMBL814783 Cytotoxicity was determined against uninfected MT-4 cells
+111 CHEMBL814407 Inhibitory activity for thromboxane synthetase determined by TXB2 levels in platelets from spontaneously hypertensive rats.
+109 CHEMBL816529 Bovine thrombin concentration at which clotting time was prolonged 2x over the control.
+163 CHEMBL812860 Inhibition of radioligand [3H]AVP binding to the vasopressin V1 receptor in rat liver tissue
+163 CHEMBL817099 Inhibition of radioligand [3H]-AVP binding to the vasopressin V2 receptor in rat kidney tissue
+103 CHEMBL815146 Antifungal activity towards Trichophyton mentagrophytes 530324 strain
+103 CHEMBL817769 Inhibition of tubulin polymerization interacting at the colchicine binding site.
+116 CHEMBL815469 Inhibitory activity against human trypsin (using Chromozym TH as the substrate)
+101 CHEMBL822459 In vivo for cholesterol absorption inhibitory activity using 7-day cholesterol-fed hamster model (expressed as percent change in cholesteryl esters at 50 mg/kg/day)
+101 CHEMBL822460 In vivo cholesterol absorption inhibitory activity using 7-day cholesterol-fed hamster model (expressed as percent change in serum cholesterol at 50 mg/kg/day)
+103 CHEMBL823404 Inhibition of PAF induced platelet aggregation in rabbit
+113 CHEMBL848104 Ratio of peak plasma concentration (Cmax) of the compound/EC50 of the compound
+115 CHEMBL852790 Ratio of effect of compound on affinity of hemoglobin for oxygen to that of control
+119 CHEMBL850566 Selectivity ratio between CCK-B and CCK-A receptor
+106 CHEMBL848034 Bitter threshold value
+167 CHEMBL847678 Sweet potency as logarithm of sweet potency (log SP) relative to sucrose
+132 CHEMBL848721 Alkaline hydrolysis rate of the compound
+182 CHEMBL876466 Lipophilicity determined as logarithm of the partition coefficient in the alkane/water system
+107 CHEMBL875189 Binding affinity towards human Coagulation factor X
+123 CHEMBL838701 Binding affinity for human adenosine A3 receptor
+122 CHEMBL841787 Binding affinity against membrane transport protein PEPT1 in human Caco-2 cells
+101 CHEMBL829005 Inhibition of [3H]Ro-151788 binding to recombinant human gamma-aminobutyric acid A receptor alpha-2-beta-3-gamma-2 subtype expressed in L (tk-) cells
+101 CHEMBL829006 Inhibition of [3H]Ro-151788 binding to recombinant human gamma-aminobutyric-acid A receptor alpha-1-beta-3-gamma-2 subtype expressed in L (tk-) cells
+101 CHEMBL830420 Inhibition of [3H]Ro-151788 binding to recombinant human gamma-aminobutyric-acid A receptor alpha-3-beta-3-gamma-2 subtype expressed in L (tk-) cells
+101 CHEMBL830421 Inhibition of [3H]Ro-151788 binding to recombinant human gamma-aminobutyric-acid A receptor alpha-5-beta-3-gamma-2 subtype expressed in L (tk-) cells
+177 CHEMBL830957 Inhibition of rat liver dihydrofolate reductase
+177 CHEMBL828662 Inhibition of Toxoplasma gondii dihydrofolate reductase
+177 CHEMBL829401 Inhibition of Pneumocystis carinii dihydrofolate reductase
+108 CHEMBL829091 Inhibitory concentration against human ER beta expressed in Escherichia coli was determined using [3H]17-beta-estradiol as radio ligand
+107 CHEMBL829540 Inhibitory concentration against human ER alpha expressed in Escherichia coli was determined using [3H]17-beta-estradiol as radio ligand
+103 CHEMBL828644 Concentration required for complete inhibition of Nuclear factor kappa B DNA binding
+177 CHEMBL830838 Inhibition of rat liver dihydrofolate reductase
+177 CHEMBL830839 Inhibition of Toxoplasma gondii dihydrofolate reductase
+177 CHEMBL830842 Inhibition of Pneumocystis carinii dihydrofolate reductase
+124 CHEMBL831723 Selectivity fold for estrogen receptor beta over estrogen receptor alpha
+106 CHEMBL833931 Inhibitory activity against wild type HIV-1 LAI cell line
+106 CHEMBL840794 Selectivity index of cytotoxic activity (CC50) to inhibitory activity (IC50) relative to LAI cell line
+119 CHEMBL872182 Inhibitory concentration against recombinant rat androgen receptor expressed in Escherichia coli using [3H]methyltrienolone (R 1881)
+133 CHEMBL864467 Inhibitory activity against dynamin1 GTPase expressed in sheep brain
+162 CHEMBL858719 Inhibitory activity against DNA-dependent protein kinase receptor
+163 CHEMBL862098 Binding affinity to recombinant human adenosine A2B receptor
+149 CHEMBL862097 Binding affinity to recombinant human adenosine A2A receptor
+139 CHEMBL862099 Selectivity for human adenosine A2B over human adenosine A2A receptor
+206 CHEMBL862100 Displacement of [3H]DPCPX from recombinant human adenosine A2B receptor expressed in HEK293 cells at 0.1 uM
+184 CHEMBL862101 Displacement of [3H]DPCPX from recombinant human adenosine A2B receptor expressed in HeLa cells at 0.01 uM
+206 CHEMBL853017 Displacement of [3H]ZM-241385 from recombinant human adenosine A2A receptor expressed in HEK293 cells at 0.1 uM
+113 CHEMBL867029 Inhibitory activity against HCV delta 21 NS5B RNA polymerase by SPA assay
+101 CHEMBL859942 Antifungal activity against Candida albicans
+113 CHEMBL861583 Inhibition of NF-kappaB DNA binding by EMSA
+124 CHEMBL861584 Activity against human urotensin-2 receptor expressed in NIH3T3 cells
+110 CHEMBL852974 Inhibition of MetAP2
+109 CHEMBL852975 Inhibition of MetAP2 in presence of 40 mg/ml human serum albumin
+109 CHEMBL852976 Antiproliferative activity against HT1080
+109 CHEMBL852977 Antiproliferative activity against HT1080 in presence of 40 mg/ml human serum albumin
+103 CHEMBL864855 Inhibition of human Wee1 in presence of 9.5 uM ATP
+103 CHEMBL864856 Inhibition at human Chk1 in presence of 4 uM ATP
+106 CHEMBL863649 Activity at human recombinant D4.4 receptor expressed in HEK293 cells by FLIPR assay
+106 CHEMBL863650 Activity at human recombinant D4.4 receptor expressed in HEK293 cells by FLIPR assay relative to dopamine
+106 CHEMBL866786 Agonist activity at human recombinant D2 receptor expressed in HEK293 cells by FLIPR assay
+106 CHEMBL866136 Antagonist activity at human recombinant D2 receptor expressed in HEK293 cells by FLIPR assay
+157 CHEMBL908895 Ability to open human urinary bladder Kir6.2 channel containing SUR2B in Ltk cells by FLIPR assay
+129 CHEMBL908896 Ability to open human urinary bladder Kir6.2 containing SUR2B in Ltk cells by FLIPR assay relative to P1075
+149 CHEMBL913512 Displacement of [125I]CCK-8S from human CCK1R
+117 CHEMBL910461 Antibacterial activity against Escherichia coli W3110
+133 CHEMBL914372 Inhibition of rat recombinant FAAH expressed in Escherichia coli by [14C]oleamide breakdown
+155 CHEMBL915807 Inhibition of Plasmodium falciparum FcB1 M1 aminopeptidase at 10 uM
+155 CHEMBL915809 Inhibition of pig kidney microsomal APN at 10 uM
+258 CHEMBL918058 Cytotoxicity against mouse L1210/0 cells after 48 hrs
+159 CHEMBL914418 Inhibition of P-glycoprotein expressed in MDR CCRF vcr1000 cells by daunorubicin efflux assay
+111 CHEMBL916755 Inhibition of DNA-PK in HeLa cell nuclear extracts
+123 CHEMBL920042 Displacement of [3H]DPCPX from human adenosine A1 receptor expressed in CHO cells
+111 CHEMBL888481 Inhibition of rat recombinant FAAH expressed in Escherichia coli
+120 CHEMBL890276 Displacement of [3H]cytisine from alpha-4-beta-2 in rat cerebral cortical membrane
+164 CHEMBL894050 Inhibition of ENT1 in human K562 cells by flow cytometric assay
+251 CHEMBL896240 Inhibition of Plasmodium falciparum protein farnesyltransferase at 50 nM by scintillation proximity assay
+253 CHEMBL896241 Inhibition of Plasmodium falciparum protein farnesyltransferase at 5 nM by scintillation proximity assay
+239 CHEMBL896242 Inhibition of Plasmodium falciparum protein farnesyltransferase at 0.5 nM by scintillation proximity assay
+258 CHEMBL896244 Antimalarial activity against Plasmodium falciparum 3D7
+235 CHEMBL896245 Antimalarial activity against Plasmodium falciparum K1
+215 CHEMBL895371 Inhibition of human Pgp-mediated DNR transport in NIH3T3 cells by microplate assay
+114 CHEMBL899883 Displacement of [3H]cytisine from neuronal nicotinic acetylcholine receptor in rat brain membrane
+110 CHEMBL899886 Agonist activity at recombinant human alpha-4-beta-2 nAChR expressed in HEK293 cells assessed as induction of calcium influx by FLIPR assay
+102 CHEMBL899884 Agonist activity at recombinant human alpha-3-beta-4 nAChR expressed in HEK293 cells assessed as induction of calcium influx by FLIPR assay
+103 CHEMBL900188 Inhibition of transthyretin fibril formation at pH 4.4 at 100 uM
+216 CHEMBL899098 Inhibition of rat human chimera TRPV1 channel expressed in CHO cells
+114 CHEMBL944092 Activation of SMN2 promoter in mouse NSC34 cells assessed as induction of beta-lactamase activity
+118 CHEMBL949088 Inhibition of rat recombinant FAAH expressed in Escherichia coli
+151 CHEMBL930273 Inhibition of recombinant GSK3-beta
+128 CHEMBL952131 Inhibition of EGFR
+108 CHEMBL931641 Displacement of [3H]CP-55940 from human recombinant CB2 receptor expressed in HEK cells
+108 CHEMBL931642 Displacement of [3H]CP-55940 from human recombinant CB1 receptor expressed in HEK cells
+181 CHEMBL944276 Inhibition of human recombinant EGFR
+123 CHEMBL938648 Inhibition of FAAH
+356 CHEMBL1002252 Cytotoxicity against human DU145 cells after 48 hrs by SRB assay
+240 CHEMBL1002253 Cytotoxicity against human LNcaP cells after 48 hrs by SRB assay
+339 CHEMBL1004797 Cytotoxicity against human IGROV cells after 48 hrs by SRB assay
+339 CHEMBL1004798 Cytotoxicity against human IGROV-ET cells after 48 hrs by SRB assay
+261 CHEMBL1004799 Cytotoxicity against human SKBR3 cells after 48 hrs by SRB assay
+356 CHEMBL1004800 Cytotoxicity against human SK-MEL-28 cells after 48 hrs by SRB assay
+363 CHEMBL1004801 Cytotoxicity against human A549 cells after 48 hrs by SRB assay
+321 CHEMBL1004802 Cytotoxicity against human K562 cells after 48 hrs by SRB assay
+339 CHEMBL1004803 Cytotoxicity against human PANC1 cells after 48 hrs by SRB assay
+365 CHEMBL1004804 Cytotoxicity against human HT29 cells after 48 hrs by SRB assay
+339 CHEMBL1004805 Cytotoxicity against human LoVo cells after 48 hrs by SRB assay
+284 CHEMBL1004806 Cytotoxicity against human doxorubicin resistant LoVo cells after 48 hrs by SRB assay
+321 CHEMBL1004807 Cytotoxicity against human HeLa cells after 48 hrs by SRB assay
+321 CHEMBL1004808 Cytotoxicity against human HeLa-APL cells after 48 hrs by SRB assay
+231 CHEMBL979906 Displacement of [3H]PDBu form mouse PKCalpha by scintillation counting
+212 CHEMBL1031359 Inhibition of HIV1 protease Q7K mutant by FRET method
+185 CHEMBL993349 Inhibition of 4-(4-(dimethylamino)styryl)-N-methylpyridinium uptake at human OCT1 expressed in HEK293 cells at 100 uM by confocal microscopy
+130 CHEMBL1024870 Inhibition of HSL in Wistar rat isolated fat cells by spectrophotometric assay
+118 CHEMBL1028089 Inhibition of human recombinant geranylgeranyl diphosphate synthase
+108 CHEMBL1028192 Binding affinity to ERalpha assessed as inhibition of fluorescein-labeled nuclear receptor domain of steroid receptor coactivator 3 by TR-FRET assay
+108 CHEMBL1028193 Binding affinity to ERbeta assessed as inhibition of fluorescein-labeled nuclear receptor domain of steroid receptor coactivator 3 by TR-FRET assay
+140 CHEMBL1027667 Inhibition of human ERG channel
+189 CHEMBL1006005 Effect on human MRP2-mediated estradiol-17-beta-glucuronide transport in Sf9 cells inverted membrane vesicles relative to control
+101 CHEMBL961424 Activation of human estrogen receptor alpha expressed in HEK293 cells at 10 uM by beta-galactosidase reporter gene assay relative to 3,17 beta-estradiol
+101 CHEMBL966124 Activation of human estrogen receptor beta expressed in HEK293 cells at 10 uM beta-galactosidase reporter gene assay relative to 3,17-beta-estradiol
+113 CHEMBL962075 Antifungal activity against Candida parapsilosis ATCC 22019 at 35 degC after 48 hrs by broth microdilution test
+171 CHEMBL962076 Antifungal activity against Candida albicans ATCC 10261 at 35 degC after 48 hrs by broth microdilution test
+167 CHEMBL962077 Antifungal activity against Candida albicans ATCC 10261 at 35 degC after 48 to 96 hrs by broth microdilution test
+391 CHEMBL965578 Inhibition of mouse brain MAOA
+244 CHEMBL965580 Inhibition of mouse brain MAOB
+171 CHEMBL1021377 Inhibition of purified human recombinant APE1 expressed in Escherichia coli M15 cells
+200 CHEMBL1017996 Antimicrobial activity against Pseudomonas aeruginosa H1001 expressing luciferase gene assessed as ratio antimicrobial IC50 for drug to Bac2A peptide by luminescence assay
+109 CHEMBL1026933 Inhibition of PTP1B
+119 CHEMBL1026934 Inhibition of Chk1
+390 CHEMBL1035433 Total body clearance in human
+390 CHEMBL1035434 Renal clearance in human
+111 CHEMBL1034532 Therapeutic index, ratio of EC50 for human HepG2 cells to IC50 for human TRbeta receptor
+147 CHEMBL1034533 Inhibition of SRC2 binding to human TRbeta receptor ligand binding domain expressed in Escherichia coli BL21 (DE3) by fluorescence polarization assay
+147 CHEMBL1034534 Cytotoxicity against human HepG2 cells after 48 hrs by luminescence cell viability assay
+147 CHEMBL1034535 Aqueous solubility in phosphate buffered saline by multi-screen solubility assay
+131 CHEMBL1034536 Permeability at pH 7.4 by PAMPA method
+111 CHEMBL1034538 Inhibition of human ERG expressed in HEK293 cells assessed as blockade of KCl-stimulated depolarization relative to terfenadine
+101 CHEMBL1056887 Antiviral activity against HIV-1 LAI harboring wild type reverse transcriptase infected in human MT4 cells after 5 days by MTT assay
+101 CHEMBL1056889 Antiviral activity against HIV1 HXB2 harboring K103N mutant reverse transcriptase infected in human MT4 cells after 5 days by MTT assay
+101 CHEMBL1056890 Antiviral activity against HIV1 HXB2 harboring Y181C mutant reverse transcriptase infected in human MT4 cells after 5 days by MTT assay
+101 CHEMBL1056891 Antiviral activity against HIV1 HXB2 harboring Y188L mutant reverse transcriptase infected in human MT4 cells after 5 days by MTT assay
+108 CHEMBL1041515 Growth inhibition of VHL-null human RCC4 cells after 4 days by XTT assay
+108 CHEMBL1041516 Ratio of IC50 for human RCC4-VHL cells to IC50 for VHL-null human RCC4 cells
+276 CHEMBL1043580 Fraction unbound in human plasma
+308 CHEMBL1043581 Total clearance in human
+308 CHEMBL1043582 Hepatic clearance in human
+308 CHEMBL1043583 Renal clearance in human
+308 CHEMBL1043584 Oral bioavailability in human
+308 CHEMBL1043585 Fraction absorbed in human
+308 CHEMBL1043586 Fraction escaping gut-wall elimination in human
+308 CHEMBL1043587 Fraction escaping hepatic elimination in human
+300 CHEMBL1043588 Volume of distribution at steady state in human
+138 CHEMBL1040875 Displacement of [3H]CP-55940 from human recombinant CB2 receptor expressed in HEK293 cells
+138 CHEMBL1040876 Displacement of [3H]CP-55940 from human recombinant CB1 receptor expressed in CHO cells
+116 CHEMBL1049617 Antitubercular activity against Mycobacterium tuberculosis H37Rv in aerobic condition after 7 days by microplate alamar blue assay
+116 CHEMBL1049618 Antitubercular activity against Mycobacterium tuberculosis H37Rv in anaerobic condition after 7 days by low oxygen recovery assay
+116 CHEMBL1049619 Cytotoxicity against african green monkey Vero cells after 72 hrs by MTS assay
+258 CHEMBL1064897 Displacement of [33P]ADP from human recombinant P2Y12 receptor expressed in CHO cells
+258 CHEMBL1064898 Antiplatelet aggregation activity against adenosine diphosphate-induced human platelet rich plasma assessed as inhibition of platelet aggregation by turbidimetric method
+179 CHEMBL1064899 Relative potency, ratio of IC50 for drug to IC50 for AZD-6140 for platelet aggregation in human platelet rich plasma
+175 CHEMBL1106724 Inhibition of human 17beta-HSD7 expressed in HEK293 cells assessed as inhibition of reduction of [14C]estrone into [14C]estradiol at 0.3 uM after 7 hrs
+124 CHEMBL1106725 Inhibition of human 17beta-HSD7 expressed in HEK293 cells assessed as inhibition of reduction of [14C]estrone into [14C]estradiol at 3 uM after 7 hrs
+128 CHEMBL1114854 Agonist activity at human PPARalpha ligand binding domain expressed in human 293T cells co-transfected with Gal4-DBD by luciferase transactivation assay
+128 CHEMBL1114855 Agonist activity at human PPARgamma ligand binding domain expressed in human 293T cells co-transfected with Gal4-DBD by luciferase transactivation assay
+136 CHEMBL1114856 Agonist activity at human PPARdelta ligand binding domain expressed in human 293T cells co-transfected with Gal4-DBD by luciferase transactivation assay
+116 CHEMBL1115672 Agonist activity at human PPARdelta ligand binding domain expressed in human 293T cells co-transfected with Gal4-DBD by luciferase transactivation assay relative to GW-501516
+105 CHEMBL1107667 Antagonist activity at human Dopamine D3 receptor expressed in CHO cell by GTPgammaS binding assay
+105 CHEMBL1107668 Antagonist activity at human Dopamine D2 receptor expressed in CHO cell by GTPgammaS binding assay
+104 CHEMBL1107669 Binding affinity to human histamine H3 receptor expressed in CHO cells by FLIPR assay
+105 CHEMBL1107671 Displacement of [3H]dofetidile from human ERG by scintillation proximity assay
+423 CHEMBL1100169 Inhibition of rat recombinant Rab geranylgeranyltransferase at 100 uM in presence of canine Rab7 and rat REP1 NBD-FPP based continuous fluorimetric assay
+103 CHEMBL1115235 Inhibition of human recombinant C-terminal FLAG-tagged autotaxin expressed in baculovirus-infected Sf9 cells assessed as FS-3 hydrolysis at 10 uM relative to control
+124 CHEMBL1114505 Antimicrobial activity against Escherichia coli
+107 CHEMBL1114507 Antimicrobial activity against Pseudomonas aeruginosa
+152 CHEMBL1119315 Inhibition of Plasmodium falciparum falcipain-2 after 12 hrs by fluorescence spectroscopy-based on-bead assay
+155 CHEMBL1119323 Inhibition of Trypanosoma brucei rhodesiense rhodesain after 12 hrs by fluorescence spectroscopy-based on-bead assay
+249 CHEMBL1166701 Growth inhibition of human NCI60 cells after 48 hrs by SRB assay
+204 CHEMBL1219695 Inhibition of Plasmodium falciparum falcipain-2 expressed in Escherichia coli
+204 CHEMBL1219696 Inhibition of Plasmodium falciparum falcipain-3 expressed in Escherichia coli
+108 CHEMBL1246346 Antiparasitic activity against Toxoplasma gondii infected in HFF after 24 hrs by [3H]uracil incorporation assay
+106 CHEMBL1249049 Inhibition of human AChE by Ellmans test
+128 CHEMBL1273257 Inhibition of factor 10a
+114 CHEMBL1634494 Solubility of the compound in water at pH 7.0 by HPLC
+121 CHEMBL1634496 Antitubercular activity against Mycobacterium tuberculosis H37Rv by MABA method
+121 CHEMBL1634497 Antitubercular activity against Mycobacterium tuberculosis H37Rv by LORA method
+112 CHEMBL1657423 Inhibition of NorA in Staphylococcus aureus 1199B assessed as reduction in ethidium bromide efflux at 50 uM by fluorimetry after 5 mins
+124 CHEMBL1663615 Antibiofilm activity in Salmonella Typhimurium ATCC 14028 assessed as inhibition of biofilm formation at 25 degC after 24 hrs
+113 CHEMBL1663702 Antibiofilm activity in Pseudomonas aeruginosa assessed as inhibition of biofilm formation at 25 degC after 24 hrs
+124 CHEMBL1678466 Activity at recombinant Gcase N370S mutant in human spleen homogenates assessed as half maximal activity concentration of hydrolysis of 4-MU-beta-D-glucose
+149 CHEMBL1678649 Inhibition of alpha-glucosidase
+149 CHEMBL1678650 Inhibition of alpha-galactosidase
+110 CHEMBL1804799 Permeability of the compound by PAMPA method at pH 7.4
+124 CHEMBL1798236 Antiproliferative activity against human SKBR3 cells expressing HER2 after 72 hrs by MTS/PMS assay
+117 CHEMBL1798237 Antiproliferative activity against human MCF7 cells expressing estrogen receptor after 72 hrs by MTS/PMS assay
+117 CHEMBL1798238 Antiproliferative activity against human androgen-dependent LNCaP-LN3 cells after 72 hrs by MTS/PMS assay
+117 CHEMBL1798239 Antiproliferative activity against human androgen-independent PC3MM2 cells after 72 hrs by MTS/PMS assay
+110 CHEMBL1804800 Partition coefficient, log D of the compound at pH 7.4 by HPLC analysis
+115 CHEMBL1804794 Antimalarial activity against chloroquine and pyrimethamine-resistant Plasmodium falciparum W2 infected in human A positive erythrocytes after 72 hrs by SYBR Green I assay
+114 CHEMBL1804795 Antimalarial activity against chloroquine, mefloquine, pyrimethamine and atovaquone-resistant Plasmodium falciparum TM90-C2B infected in human A positive erythrocytes after 72 hrs by SYBR Green I assay
+111 CHEMBL1804796 Resistance index, ratio of EC50 for chloroquine, mefloquine, pyrimethamine and atovaquone-resistant Plasmodium falciparum TM90-C2B to EC50 for chloroquine and pyrimethamine-resistant Plasmodium falciparum W2
+109 CHEMBL1804797 Cytotoxicity against mouse J774 cells after 72 hrs by Cell titer 96 aqueous one solution cell proliferation assay
+110 CHEMBL1804798 Aqueous solubility of compound at pH 7.4 by HPLC analysis
+112 CHEMBL1804802 Cytotoxicity index, ratio of EC50 for mouse J774 cells to EC50 for chloroquine, mefloquine, pyrimethamine and atovaquone-resistant Plasmodium falciparum TM90-C2B
+138 CHEMBL1819839 Agonist activity at recombinant human vasopressin V1a receptor expressed in HEK293 cells by luciferase reporter gene assay
+138 CHEMBL1819840 Agonist activity at recombinant human vasopressin V1b receptor expressed in Flp-In-293 cells by luciferase reporter gene assay
+138 CHEMBL1819841 Agonist activity at recombinant human vasopressin V2 receptor expressed in HEK293 cells by luciferase reporter gene assay
+138 CHEMBL1819842 Agonist activity at human OT receptor expressed in CHO-K1 cells by luciferase reporter gene assay
+133 CHEMBL1826381 Activation of SMN expressed in HEK293 cells assessed as concentration required to reach 50% of maximum luciferase signal by SMN2-promotor driven luciferase reporter gene assay
+112 CHEMBL1827733 Displacement of [3H]ketanserin from human recombinant serotonin 5-HT2A receptor expressed in CHO-K1 cells
+112 CHEMBL1827734 Displacement of [3H]mesulergine from human recombinant 5-HT2C receptor expressed in CHO-K1 cells
+112 CHEMBL1827735 Displacement of [3H]impiramine from human serotonin transporter membrane expressed in HEK293 cells
+113 CHEMBL1839642 Antituberculosis activity against Mycobacterium tuberculosis H37Rv under aerobic conditions by microplate alamar blue assay
+113 CHEMBL1839643 Antituberculosis activity against Mycobacterium tuberculosis H37Rv under anaerobic conditions by fluorescence based low-oxygen-recovery assay
+112 CHEMBL1837544 Solubility of the compound at pH 7.4 after 18 hrs by UV spectroscopic analysis
+112 CHEMBL1837545 Permeability of the compound at pH 7.4 after 30 mins by PAMPA
+112 CHEMBL1837546 Dissociation constant, pKa of the compound
+113 CHEMBL1837547 Antimalarial activity against chloroquine-sensitive Plasmodium falciparum 3D7 infected in human erythrocytes assessed as reduction in parasitemia after 72 hrs by spectrophotometry
+113 CHEMBL1837548 Antimalarial activity against chloroquine-resistant Plasmodium falciparum K1 infected in human erythrocytes assessed as reduction in parasitemia after 72 hrs by spectrophotometry
+113 CHEMBL1837682 Ratio of EC50 for chloroquine-resistant Plasmodium falciparum K1 infected in human erythrocytes to EC50 for chloroquine-sensitive Plasmodium falciparum 3D7 infected in human erythrocytes
+113 CHEMBL1837683 Cytotoxicity against human HepG2 cells assessed as intracellular ATP level after 72 hrs by Celltiter-Glo luminescent assay
+113 CHEMBL1837684 Ratio of EC50 for human HepG2 cells to EC50 for Plasmodium falciparum 3D7 infected in human erythrocytes
+113 CHEMBL1837685 Ratio of EC50 for human HepG2 cells to EC50 for Plasmodium falciparum K1 infected in human erythrocytes
+118 CHEMBL1920461 Cytotoxicity against human PC3 cells
+118 CHEMBL1920462 Cytotoxicity against human HeLa cells
+116 CHEMBL1920463 Antimicrobial activity against Micrococcus luteus ATCC 10240 after 24 hrs by Kirby-Bauer agar diffusion assay
+118 CHEMBL1920731 Cytotoxicity against human MCF7 cells
+122 CHEMBL1920639 Displacement of [3H]PGD2 from human CRTH2 expressed in chinese hamster CHO cells by liquid scintillation counting
+173 CHEMBL1918735 Cytotoxicity against human HEK293 cells after 72 hrs by luminescence assay
+173 CHEMBL1918736 Cytotoxicity against human Raji cells after 72 hrs by luminescence assay
+173 CHEMBL1918737 Cytotoxicity against human HepG2 cells after 72 hrs by luminescence assay
+173 CHEMBL1918738 Cytotoxicity against human BJ cells after 72 hrs by luminescence assay
+173 CHEMBL1918739 Selectivity ratio of EC50 for human HepG2 cells to EC50 for Plasmodium falciparum
+163 CHEMBL1960748 Inhibition of Dengue virus NS2B-NS3 protease using Abz-NleKRRS-3-(NO2)Y as substrate at 50 uM preincubated for 15 mins measured every sec for 15 mins by fluorimetric analysis
+163 CHEMBL1960749 Inhibition of bovine plasma thrombin using Boc-Val-Pro-Arg-AMC as substrate at 25 uM preincubated for 15 mins measured after 10 mins by fluorimetric assay
+163 CHEMBL1960750 Inhibition of Escherichia coli MurA using PEP as substrate assessed as inorganic phosphate release at 25 uM preincubated for 10 mins measured after 60 mins by fluorimetric assay
+163 CHEMBL1960751 Inhibition of Escherichia coli MetAP at 10 uM after 15 mins by fluorescence analysis
+110 CHEMBL2046255 Inhibition of recombinant AKR1C3 assessed as NADP+ dependent oxidation of S-tetralol by fluorescence assay
+110 CHEMBL2046256 Inhibition of recombinant AKR1C2 assessed as NADP+ dependent oxidation of S-tetralol by fluorescence assay
+109 CHEMBL2046257 Selectivity ratio of IC50 for recombinant AKR1C2 to IC50 for recombinant AKR1C3
+106 CHEMBL2091156 Inhibition of human recombinant TG2 by fluorescent transamidation assay
+140 CHEMBL2156781 Antiviral activity against Hepatitis C virus subtype 1b Con1 infected in human Huh7 cells assessed as inhibition of HCV replicon-encoded Renilla luciferase reporter activity after 72 hrs by HCV replicon assay
+127 CHEMBL2155446 Inhibition of gamma secretase assessed as reduction in Abeta42 production
+223 CHEMBL2169429 Inhibition of human liver OATP1B1 expressed in HEK293 Flp-In cells assessed as reduction in E17-betaG uptake at 20 uM by scintillation counting
+223 CHEMBL2169430 Inhibition of human liver OATP1B3 expressed in HEK293 Flp-In cells assessed as reduction in [3H]E17-betaG uptake at 20 uM incubated for 5 mins by scintillation counting
+223 CHEMBL2169431 Inhibition of human liver OATP2B1 expressed in HEK293 Flp-In cells assessed as reduction in [3H]E3S uptake at 20 uM incubated for 5 mins by scintillation counting
+224 CHEMBL2186105 Antiviral activity against HCV genotype 1b infected to human HuH cells assessed as inhibition of RNA replication after 4 days by FRET assay
+128 CHEMBL2213160 Modulation of gamma secretase in CHO-2B7 cells assessed as reduction in amyloid beta 42 level after 5 hrs by MSD ELISA
+112 CHEMBL2317274 Inhibition of human recombinant His-GST tagged VCP expressed in baculovirus infected Hi5 cells assessed as ADP formation incubated for 20 mins proir to substrate addition measured after 90 mins by NADH coupled assay
+113 CHEMBL2330505 Activation of human RXRalpha activity expressed in COS1 cells assessed as induction ratio at 50 uM after 12 hrs by RXRE-luciferase reporter gene assay relative to untreated control
+104 CHEMBL2400521 Cytotoxicity against human K562 cells after 96 hrs by trypan blue exclusion assay
+104 CHEMBL2400522 Cytotoxicity against human DU145 cells after 96 hrs by trypan blue exclusion assay
+107 CHEMBL2400428 Activity at rat recombinant GluN1/GluN2D receptor expressed in Xenopus oocytes assessed as potentiation of glycine/glutamate-induced activation at 10 uM by two-electrode voltage clamp technique relative to control
+107 CHEMBL2400429 Activity at rat recombinant GluN1/GluN2C receptor expressed in Xenopus oocytes assessed as potentiation of glycine/glutamate-induced activation at 10 uM by two-electrode voltage clamp technique relative to control
+107 CHEMBL2400430 Activity at rat recombinant GluN1/GluN2B receptor expressed in Xenopus oocytes assessesed as potentiation of glycine/glutamate-induced effect at 10 uM by two-electrode voltage clamp technique
+107 CHEMBL2400431 Activity at rat recombinant GluN1/GluN2A receptor expressed in Xenopus oocytes assessesed as potentiation of glycine/glutamate-induced effect at 10 uM by two-electrode voltage clamp technique
+155 CHEMBL2423658 Inhibition of TDP2 (unknown origin) using 4-nitrophenyl phenylphosphonate as substrate after 60 mins
+105 CHEMBL2433916 Positive allosteric modulation of rat mGluR5 stably expressed in HEK293 cells assessed as increase in intracellular calcium level by Fluo-4AM dye-based fluorescence assay
+101 CHEMBL2443631 Inhibition of RyR2 R4496C mutant (unknown origin)-mediated store-overload induced calcium release expressed in HEK293 cells after 8 to 10 mins by fura-2/AM dye-based fluorescence assay
+111 CHEMBL3089558 Cytotoxicity against human HL60 cells assessed as growth inhibition after 72 hrs by MTT assay
+110 CHEMBL3111191 Inhibition of TLR9 in BALB/c mouse BMDM assessed as downregulation of CpG-stimulated IL-6 level at 5 ug/ml preincubated for 18 hrs followed by CpG challenge measured after 24 hrs by ELISA relative to control
+110 CHEMBL3111192 Inhibition of TLR9 in BALB/c mouse BMDM assessed as downregulation of CpG-stimulated IL-12p40 level at 5 ug/ml preincubated for 18 hrs followed by CpG challenge measured after 24 hrs by ELISA relative to control
+110 CHEMBL3111194 Inhibition of TLR2/6 in BALB/c mouse BMDM assessed as downregulation of BLP-stimulated IL-6 level at 5 ug/ml preincubated for 18 hrs followed by BLP challenge measured after 24 hrs by ELISA relative to control
+110 CHEMBL3111195 Inhibition of TLR2/6 in BALB/c mouse BMDM assessed as downregulation of BLP-stimulated IL-12p40 level at 5 ug/ml preincubated for 18 hrs followed by BLP challenge measured after 24 hrs by ELISA relative to control
+110 CHEMBL3111197 Inhibition of TLR4 in BALB/c mouse BMDM assessed as downregulation of LPS-stimulated IL-6 level at 5 ug/ml preincubated for 18 hrs followed by LPS challenge measured after 24 hrs by ELISA relative to control
+110 CHEMBL3111198 Inhibition of TLR4 in BALB/c mouse BMDM assessed as downregulation of LPS-stimulated IL-12p40 level at 5 ug/ml preincubated for 18 hrs followed by LPS challenge measured after 24 hrs by ELISA relative to control
+114 CHEMBL3122259 Antiviral activity against Hepatitis C virus infected in human HuH7 cells assessed as inhibition of HCV subgenomic replicon replication after 72 hrs by ELISA
+126 CHEMBL3122260 Inhibition of Hepatitis C virus full-length NS3/4A protease assessed as quenched-fluorogenic RET-S1 substrate cleavage incubated for 10 mins prior to substrate addition by FRET analysis
+245 CHEMBL3232194 Antitumor activity against mouse L1210 cells transfected in ip dosed C3H X DBA2 F1 hybrid mouse on day 0 and dosed at LD10 level once daily on days 1 to 5 assessed as increase in life span relative to control
+127 CHEMBL3232195 Displacement of ethidium from calf thymus DNA by fluorimetric method
+245 CHEMBL3232196 Toxicity in ip dosed C3H X DBA2 F1 hybrid mouse transfected with mouse L1210 cells on day 0 and dosed once daily on days 1 to 5 measured after 50 days
+193 CHEMBL3232197 Antitumor activity against mouse L1210 cells transfected in ip dosed C3H X DBA2 F1 hybrid mouse on day 0 and dosed once daily on days 1 to 5 assessed as increase in life span relative to control
+245 CHEMBL3232198 Lipophilic-hydrophilic balance, Rm of the compound by partition chromatography
+127 CHEMBL3232200 Displacement of ethidium from poly[d(A-T)]-poly[d(A-T)] DNA by fluorimetric method
+127 CHEMBL3232201 Displacement of ethidium from poly[d(G-C)]-poly[d(G-C)] DNA (unknown origin) by fluorimetric method
+131 CHEMBL3232252 Lipophilicity, log P of the compound in 0.1 N HCl solution
+630 CHEMBL3232253 Antimalarial activity against Plasmodium berghei
+135 CHEMBL3240837 Inhibition of NorA in fluoroquinolone-resistant Staphylococcus aureus 1199B assessed as potentiation of 4 ug/ml of ciprofloxacin MIC at 100 ug/ml after 24 hrs by microdilution method
+129 CHEMBL3240840 Toxicity in Staphylococcus aureus ATCC 25923 after 24 hrs by microdilution method
+166 CHEMBL3252233 Analgesic activity in Sprague-Dawley rat brewer's yeast treated foot assessed as response threshold at 32 mg/kg, po
+181 CHEMBL3252237 Analgesic activity in Sprague-Dawley rat normal foot assessed as response threshold at 32 mg/kg, po
+101 CHEMBL3255097 Antitumor activity against mouse L1210 cells allografted in mouse assessed as increase of host lifespan
+128 CHEMBL3253878 Antitumor activity against mouse L1210 cells allografted in mouse assessed as dose required to increase 40% of life span
+106 CHEMBL3255367 Antitumor activity against mouse L1210 cells allografted in C3H/DBA2F1 hybrid mouse assessed as maximum increase of host life span administered as ip for 5 days relative to control
+111 CHEMBL3266258 Antimicrobial activity against Candida albicans SC5314 after 24 hrs by serial dilution method
+111 CHEMBL3266259 Antimicrobial activity against Candida albicans Y0109 after 24 hrs by serial dilution method
+111 CHEMBL3266260 Antimicrobial activity against Candida parapsilosis 22019 after 24 hrs by serial dilution method
+111 CHEMBL3266261 Antimicrobial activity against Cryptococcus neoformans 32609 after 72 hrs by serial dilution method
+111 CHEMBL3266262 Antimicrobial activity against Candida glabrata 537 after 24 hrs by serial dilution method
+111 CHEMBL3266263 Antimicrobial activity against Aspergillus fumigatus 7544 after 48 hrs by serial dilution method
+105 CHEMBL3270181 Cytotoxicity against human HepG2 cells assessed as decrease in ATP signal after 2 days by CellTiter-Glo assay
+104 CHEMBL3280748 Inhibition of liver dihydrofolate reductase (unknown origin)
+111 CHEMBL3284063 Binding affinity to chymotrypsin (unknown origin)
+121 CHEMBL3283306 Toxicity in po dosed mouse assessed as mortality after 7 days
+121 CHEMBL3283307 Hypotensive activity in po dosed spontaneously hypertensive Wistar-Okamoto rat assessed as dose required to cause 30 mmHg fall of blood pressure administered for 5 days
+126 CHEMBL3285081 In vivo antigoiter activity in rat
+105 CHEMBL3370062 Positive allosteric modulator activity at human muscarinic acetylcholine receptor subtype 5 expressed in CHO cells by calcium mobilization assay
+122 CHEMBL3414284 Antibacterial activity against methicillin-sensitive Staphylococcus aureus ATCC 29213 after 16 to 20 hrs by broth microdilution method
+107 CHEMBL3419139 Inhibition of Vps75-stimulated recombinant Saccharomyces cerevisiae histone acetyltransferase Rtt109 using Asf1-dH3-H4 as substrate assessed as coenzyme A production after 45 mins by CPM based HTS assay
+104 CHEMBL3419140 Inhibition of Vps75-stimulated recombinant Saccharomyces cerevisiae histone acetyltransferase Rtt109 using Asf1-dH3-H4 as substrate assessed as coenzyme A production after 45 mins by CoA-based HTS counter screen assay
+104 CHEMBL3419141 Inhibition of Vps75-stimulated recombinant Saccharomyces cerevisiae histone acetyltransferase Rtt109 assessed as H3K56 acetylated product at 125 uM after 45 mins by Slot bolt inhibiton assay
+104 CHEMBL3419142 Inhibition of Vps75-stimulated recombinant Saccharomyces cerevisiae histone acetyltransferase Rtt109 assessed as H3K27 acetylated product at 125 uM after 45 mins by Slot bolt inhibiton assay
+104 CHEMBL3419143 Fluorescence quenching assessed as fluorescence signal reduction at 10 uM after 10 mins
+104 CHEMBL3419144 Fluorescence quenching in HTS buffer assessed as fluorescence signal reduction at 10 uM after 10 mins
+104 CHEMBL3419553 Fluorescence quenching in HTS buffer with 7.5 uM CoA assessed as fluorescence signal reduction at 10 uM after 10 mins
+104 CHEMBL3419578 Fluorescence quenching in HTS buffer with 20 uM 7-diethylamino-3-(4'-maleimidyl-phenyl)-4-methylcoumarin assessed as fluorescence signal reduction at 10 uM after 10 mins
